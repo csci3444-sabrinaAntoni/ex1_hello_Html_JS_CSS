@@ -2,3 +2,5 @@
 Introductionary sample of html, JS and CSS
 
 ## Look at script.js file for intro to JavaScript
+
+Sabrina Antoni added this line. 
