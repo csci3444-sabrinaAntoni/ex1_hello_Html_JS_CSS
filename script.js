@@ -26,6 +26,7 @@ console.log("myObject.myStr is " + myObject.myStr);
 console.log("myObject.myInnerObj.myInnerStr is " + myObject.myInnerObj.myInnerStr);
 // method_2 Accessing object attributes(elements) via object's "associative array" behaviour. Via ["attributeName"]
 console.log("myObject['myStr'] is " + myObject['myStr']);
+console.log("Hello! I added this code.");
 
 // Array variable
 var myArray1 = [1, 2, 3, 4, 5];
